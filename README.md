@@ -49,6 +49,7 @@ The AI coding assistant space is evolving at breakneck speed. New tools launch e
 - [The Rise of Agentic Coding](#the-rise-of-agentic-coding)
 - [Self-Hosting vs Cloud](#self-hosting-vs-cloud)
 - [Community & Contributing](#community--contributing)
+- [Resources & Further Reading](#resources--further-reading)
 - [Star History](#star-history)
 
 ---
@@ -369,6 +370,18 @@ We welcome contributions of all kinds:
 Check out the full story and discussion:
 
 **[https://x.com/paidev/status/2039014896650858586?s=20](https://x.com/paidev/status/2039014896650858586?s=20)**
+
+---
+
+## Resources & Further Reading
+
+Helpful resources for getting deeper into AI-assisted coding:
+
+- **[SWE-Bench](https://www.swebench.com/)** — The standard benchmark for evaluating AI coding agents on real GitHub issues. Check how tools perform before choosing one.
+- **[Aider Leaderboard](https://aider.chat/docs/leaderboards/)** — Detailed benchmark results comparing different LLMs on coding tasks. Updated regularly.
+- **[Model Context Protocol](https://modelcontextprotocol.io/)** — The open standard that many tools use for connecting to external data sources and APIs.
+- **[Ollama](https://ollama.com/)** — The easiest way to run local LLMs. Essential for self-hosting setups.
+- **[vLLM](https://github.com/vllm-project/vllm)** — High-performance LLM inference server for production deployments.
 
 ---
 
